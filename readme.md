@@ -1,4 +1,4 @@
-CS 6320 NLP Project - Question Answering System Team Engaged.
+CS 6320 NLP Project - Question Answering System
 
 Programming tools used:
 Python (version: 3.9.5)
